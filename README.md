@@ -3,8 +3,7 @@
 ![image](searchapp.png)
 
 
+WORKS ON LINUX AND WINDOWS!
 
-!ONLY WORKS ON LINUX!
 
-
-Working on cross platform implementation 
+Working on cross platform implementation for mac
